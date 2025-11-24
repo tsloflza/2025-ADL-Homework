@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains code for HW2: a bidirectional translation task between Classical Chinese (文言文) and Modern Chinese (白話文). The project includes scripts for fine-tuning a large language model with QLoRA/PEFT, running inference with a trained adapter, and evaluating model perplexity on test sets.
+This repository contains code for a bidirectional translation task between Classical Chinese (文言文) and Modern Chinese (白話文). The project includes scripts for fine-tuning a large language model with QLoRA/PEFT, running inference with a trained adapter, and evaluating model perplexity on test sets.
 
 ## Repository structure
 
