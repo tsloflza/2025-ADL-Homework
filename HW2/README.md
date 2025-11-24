@@ -75,6 +75,12 @@ Notes:
 
 See `report.pdf` for full configuration and experimental details.
 
+official test accuracy:
+- public: 6.73625, rank 103/186
+- private: 13.35997, rank 90/186
+
+note: include more models in LoRA can get better result (below 6.5 in public test).
+
 ## Requirements
 
 Recommended environment:
