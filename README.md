@@ -1,4 +1,4 @@
-# NTU ADL 2025 Homework
+# 2025 ADL Homework
 
 ## HW1
 
